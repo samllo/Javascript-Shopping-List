@@ -1,6 +1,4 @@
 
-
-
 // Create a "close" span append it to each list item, gives each 'close' class
 var nodeList = document.getElementsByTagName("LI");
 var i;
